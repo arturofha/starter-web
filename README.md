@@ -6,4 +6,4 @@
 
 ## Como contribuir
 
-prueba
+prueba2
