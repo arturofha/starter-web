@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Arturo Herrera  arturofha@hotmail.com
 
 # THANKS
 
