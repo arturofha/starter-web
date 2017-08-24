@@ -2,3 +2,4 @@ noquiero.txt
 .vscode-upload.json
 *.log
 log/
+*.orig
